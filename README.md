@@ -12,4 +12,4 @@ The avatar tooling and its dependencies arrive as submodules. Then open the proj
 
 ## Licence
 
-LICENSE states MIT for the repository.
+LICENSE states MIT for the project files. It does not cover the avatar: the VRM's own metadata names a third-party author and the licence `Redistribution_Prohibited`.
